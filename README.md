@@ -18,19 +18,19 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
 ## 📈 Github Stats
 
 <p align="center">
-<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=ImAndreaBellani&theme=dark&hide_border=true"/>
+<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=ImAndreaBellani&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
   
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImAndreaBellani&theme=dark"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImAndreaBellani&theme=github_dark"/>
 
 </p>
 
 <p align = "center">
   
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImAndreaBellani&theme=dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImAndreaBellani&theme=github_dark"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAndreaBellani&show_icons=true&theme=dark&layout=donut"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAndreaBellani&show_icons=true&theme=github_dark&layout=donut"/>
 
 </p>
