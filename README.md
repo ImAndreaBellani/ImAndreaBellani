@@ -31,6 +31,6 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
   
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImAndreaBellani&theme=github_dark"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAndreaBellani&show_icons=true&theme=transparent&layout=donut"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAndreaBellani&show_icons=true&theme=transparent&layout=compact"/>
 
 </p>
