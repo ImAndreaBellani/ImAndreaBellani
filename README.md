@@ -23,7 +23,7 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
 
 <p align="center">
   
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImAndreaBellani&theme=github-dark"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImAndreaBellani&theme=dark"/>
 
 </p>
 
