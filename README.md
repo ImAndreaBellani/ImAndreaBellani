@@ -18,7 +18,7 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
 ## 📈 Github Stats
 
 <p align="center">
-<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=ImAndreaBellani&theme=midnight-purple&hide_border=true"/>
+<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=ImAndreaBellani&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -29,8 +29,8 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
 
 <p align = "center">
   
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImAndreaBellani&theme=midnight-purple"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImAndreaBellani&theme=dark"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAndreaBellani&show_icons=true&theme=midnight-purple&layout=donut"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAndreaBellani&show_icons=true&theme=dark&layout=donut"/>
 
 </p>
