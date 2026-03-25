@@ -13,7 +13,7 @@ Hi!👋
 <!-- Actual text -->
 You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](https://www.linkedin.com/in/ImAndreaBellani)
 
-## 💼 Technical Skills
+<!-- ## 💼 Technical Skills -->
 
 ## 📈 Github Stats
 
