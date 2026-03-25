@@ -1,19 +1,36 @@
-## Hi there 👋
+<!--![counter](https://p_RRCgv9m.m.pipedream.net)-->
+<h3 align="center">
+Hi!👋 
+</h3>
 
-<!--
-**ImAndreaBellani/ImAndreaBellani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+<!--- 🔭 I’m on a mission to simplify this over-complicated world.🚀
+- 🌱 My interests - Product Design, Backend Development, System Design, Blockchain, Defi, Building Cross-platform applications, Infrastructure, Cloud & AI.🎉
+- 💟 I love to design, architect and develop impactful and robust products which aim to solve real-world problems.🧑‍💻
+- 👯 I’m looking for passionate people with common interests and goals. 📖
+- 💯 I help people achieve their goals with impactful mentorship and techniques.🖥️ -->
+- 📫 How to reach me:
+<!-- Actual text -->
+You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](https://www.linkedin.com/in/ImAndreaBellani)
 
-Here are some ideas to get you started:
+## 💼 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImAndreaBellani&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImAndreaBellani&theme=radical)
+## 📈 Github Stats
 
+<p align="center">
+<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=ImAndreaBellani&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImAndreaBellani&theme=github_dark"/>
+
+</p>
+
+<p align = "center">
+  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImAndreaBellani&theme=github_dark"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAndreaBellani&show_icons=true&theme=transparent&layout=donut"/>
+
+</p>
