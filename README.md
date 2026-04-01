@@ -1,5 +1,4 @@
 <!--![counter](https://p_RRCgv9m.m.pipedream.net)-->
-![Stats](./profile/stats.svg)
 <h3 align="center">
 Hi!👋 
 </h3>
@@ -42,6 +41,6 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
   
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImAndreaBellani&theme=github_dark"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAndreaBellani&show_icons=true&theme=github_dark&layout=donut"/>
+<img src="./profile/top-langs.svg"/>
 
 </p>
