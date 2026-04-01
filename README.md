@@ -1,4 +1,5 @@
 <!--![counter](https://p_RRCgv9m.m.pipedream.net)-->
+![Stats](./profile/stats.svg)
 <h3 align="center">
 Hi!👋 
 </h3>
