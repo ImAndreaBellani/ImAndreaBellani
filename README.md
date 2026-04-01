@@ -17,18 +17,18 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
 
 ## Pinned repos
 <table>
-  <tr>
-    <td>
-      <a href="https://github.com/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20">
-        <img src="https://img.shields.io/badge/repo1-View-blue?style=for-the-badge&logo=github">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ImAndreaBellani/Progetto-di-API-2022">
-        <img src="https://img.shields.io/badge/repo2-View-blue?style=for-the-badge&logo=github">
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### repo-card  
+😎 showcase repositories on your website 🤘  
+
+<img src="https://img.shields.io/github/stars/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20?style=social" />
+
+<a href="https://github.com/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20">Apri repo →</a>
+
+</td>
+</tr>
 </table>
 [![Elaborato informatica Esame di stato 2019-20](https://github-readme-stats.vercel.app/api/pin/?username=ImAndreaBellani&repo=Elaborato-informatica-Esame-di-stato-2019-20)](https://github.com/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20)
 [![Progetto di API 2022](https://github-readme-stats.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-API-2022)](https://github.com/ImAndreaBellani/Progetto-di-API-2022)
