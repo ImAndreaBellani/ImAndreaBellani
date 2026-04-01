@@ -16,12 +16,13 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
 <!-- ## 💼 Technical Skills -->
 
 ## Pinned repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Elaborato informatica Esame di stato 2019-20](https://github-readme-stats.vercel.app/api/pin/?username=ImAndreaBellani&repo=Elaborato-informatica-Esame-di-stato-2019-20)](https://github.com/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20)
+[![Progetto di API 2022](https://github-readme-stats.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-API-2022)](https://github.com/ImAndreaBellani/Progetto-di-API-2022)
+[![Progetto di Reti Logiche 2024](https://github-readme-stats.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-Reti-Logiche-2024)](https://github.com/ImAndreaBellani/Progetto-di-Reti-Logiche-2024)
+[![Progetto di TIW 2024](https://github-readme-stats.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-TIW-2024)](https://github.com/ImAndreaBellani/Progetto-di-TIW-2024)
+[![Progetto di Ingegneria Informatica 2024](https://github-readme-stats.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-Ingegneria-Informatica-2024)](https://github.com/ImAndreaBellani/Progetto-di-Ingegneria-Informatica-2024)
+[![RASD-DD Project 2025](https://github-readme-stats.vercel.app/api/pin/?username=ImAndreaBellani&repo=RASD-DD-Project-2025-Bellani-Capellino)](https://github.com/ImAndreaBellani/RASD-DD-Project-2025-Bellani-Capellino)
+[![FMCRS Homework Project 2025](https://github-readme-stats.vercel.app/api/pin/?username=ImAndreaBellani&repo=FMCRS-Homework-Project-2025)](https://github.com/ImAndreaBellani/FMCRS-Homework-Project-2025)
 
 
 ## 📈 Github Stats
