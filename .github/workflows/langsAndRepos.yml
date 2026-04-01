@@ -1,0 +1,90 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # 🔹 Top Languages
+      - name: Generate top languages
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🔹 Pinned repos (modifica qui sotto)
+      - name: Generate pinned repo - repo1
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: repo
+          options: username=${{ github.repository_owner }}&repo=Elaborato-informatica-Esame-di-stato-2019-20
+          path: profile/repo1.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pinned repo - repo2
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: repo
+          options: username=${{ github.repository_owner }}&repo=Progetto-di-API-2022
+          path: profile/repo2.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pinned repo - repo3
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: repo
+          options: username=${{ github.repository_owner }}&repo=Progetto-di-Reti-Logiche-2024
+          path: profile/repo3.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate pinned repo - repo4
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: repo
+          options: username=${{ github.repository_owner }}&repo=Progetto-di-TIW-2024
+          path: profile/repo4.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pinned repo - repo5
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: repo
+          options: username=${{ github.repository_owner }}&repo=Progetto-di-Ingegneria-Informatica-2024
+          path: profile/repo5.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pinned repo - repo6
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: repo
+          options: username=${{ github.repository_owner }}&repo=RASD-DD-Project-2025-Bellani-Capellino
+          path: profile/repo6.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pinned repo - repo7
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: repo
+          options: username=${{ github.repository_owner }}&repo=FMCRS-Homework-Project-2025
+          path: profile/repo7.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🔹 Commit
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
