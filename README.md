@@ -20,9 +20,6 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
 <tr>
 <td width="50%">
 
-### repo-card  
-😎 showcase repositories on your website 🤘  
-
 <img src="https://img.shields.io/github/stars/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20?style=social" />
 
 <a href="https://github.com/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20">Apri repo →</a>
