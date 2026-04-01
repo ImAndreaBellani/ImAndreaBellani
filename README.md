@@ -16,15 +16,7 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
 <!-- ## 💼 Technical Skills -->
 
 ## Pinned repos
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20">
-        <img src="https://img.shields.io/badge/Elaborato-informatica-Esame-di-stato-2019-20-View-blue?style=for-the-badge&logo=github">
-      </a>
-    </td>
-  </tr>
-</table>
+
 [![Elaborato informatica Esame di stato 2019-20](https://github-readme-stats.vercel.app/api/pin/?username=ImAndreaBellani&repo=Elaborato-informatica-Esame-di-stato-2019-20)](https://github.com/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20)
 [![Progetto di API 2022](https://github-readme-stats.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-API-2022)](https://github.com/ImAndreaBellani/Progetto-di-API-2022)
 [![Progetto di Reti Logiche 2024](https://github-readme-stats.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-Reti-Logiche-2024)](https://github.com/ImAndreaBellani/Progetto-di-Reti-Logiche-2024)
