@@ -23,62 +23,16 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🔹 Pinned repos (modifica qui sotto)
-      - name: Generate pinned repo - repo1
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: username=${{ github.repository_owner }}&repo=Elaborato-informatica-Esame-di-stato-2019-20
-          path: profile/repo1.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pinned repo - repo2
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: username=${{ github.repository_owner }}&repo=Progetto-di-API-2022
-          path: profile/repo2.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pinned repo - repo3
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: username=${{ github.repository_owner }}&repo=Progetto-di-Reti-Logiche-2024
-          path: profile/repo3.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Generate pinned repo - repo4
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: username=${{ github.repository_owner }}&repo=Progetto-di-TIW-2024
-          path: profile/repo4.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pinned repo - repo5
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: username=${{ github.repository_owner }}&repo=Progetto-di-Ingegneria-Informatica-2024
-          path: profile/repo5.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pinned repo - repo6
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: username=${{ github.repository_owner }}&repo=RASD-DD-Project-2025-Bellani-Capellino
-          path: profile/repo6.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pinned repo - repo7
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: repo
-          options: username=${{ github.repository_owner }}&repo=FMCRS-Homework-Project-2025
-          path: profile/repo7.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      # 🔹 Pinned repos (via curl)
+      - name: Generate pinned repos
+        run: |
+          curl "https://github-readme-stats.vercel.app/api/pin/?username=${{ github.repository_owner }}&repo=Elaborato-informatica-Esame-di-stato-2019-20" -o profile/repo1.svg
+          curl "https://github-readme-stats.vercel.app/api/pin/?username=${{ github.repository_owner }}&repo=Progetto-di-API-2022" -o profile/repo2.svg
+          curl "https://github-readme-stats.vercel.app/api/pin/?username=${{ github.repository_owner }}&repo=Progetto-di-Reti-Logiche-2024" -o profile/repo3.svg
+          curl "https://github-readme-stats.vercel.app/api/pin/?username=${{ github.repository_owner }}&repo=Progetto-di-TIW-2024" -o profile/repo4.svg
+          curl "https://github-readme-stats.vercel.app/api/pin/?username=${{ github.repository_owner }}&repo=Progetto-di-Ingegneria-Informatica-2024" -o profile/repo5.svg
+          curl "https://github-readme-stats.vercel.app/api/pin/?username=${{ github.repository_owner }}&repo=RASD-DD-Project-2025-Bellani-Capellino" -o profile/repo6.svg
+          curl "https://github-readme-stats.vercel.app/api/pin/?username=${{ github.repository_owner }}&repo=FMCRS-Homework-Project-2025" -o profile/repo7.svg
 
       # 🔹 Commit
       - name: Commit cards
