@@ -28,7 +28,7 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
 [![Progetto di Reti Logiche 2024](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-Reti-Logiche-2024&theme=github_dark)](https://github.com/ImAndreaBellani/Progetto-di-Reti-Logiche-2024)
 [![Progetto di API 2022](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-API-2022&theme=github_dark)](https://github.com/ImAndreaBellani/Progetto-di-API-2022)
 
-### High school's projects
+### 📓 High school's projects
 
 [![Elaborato informatica Esame di stato 2019-20](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Elaborato-informatica-Esame-di-stato-2019-20&theme=github_dark)](https://github.com/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20)
 
