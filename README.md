@@ -18,19 +18,19 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
 ## 📌 Pinned repos
 ### 💻💻 Master's degree projects
 
-[![FMCRS Homework Project 2025](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=FMCRS-Homework-Project-2025&theme=gruvbox_light)](https://github.com/ImAndreaBellani/FMCRS-Homework-Project-2025)
-[![RASD-DD Project 2025](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=RASD-DD-Project-2025-Bellani-Capellino&theme=github_dark)](https://github.com/ImAndreaBellani/RASD-DD-Project-2025-Bellani-Capellino)
+[![FMCRS Homework Project 2025](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=FMCRS-Homework-Project-2025&theme=gruvbox)](https://github.com/ImAndreaBellani/FMCRS-Homework-Project-2025)
+[![RASD-DD Project 2025](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=RASD-DD-Project-2025-Bellani-Capellino&theme=prussian)](https://github.com/ImAndreaBellani/RASD-DD-Project-2025-Bellani-Capellino)
 
 ### 💻 Bachelor's degree projects
 
-[![Progetto di Ingegneria Informatica 2024](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-Ingegneria-Informatica-2024&theme=github_dark)](https://github.com/ImAndreaBellani/Progetto-di-Ingegneria-Informatica-2024)
-[![Progetto di TIW 2024](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-TIW-2024&theme=github_dark)](https://github.com/ImAndreaBellani/Progetto-di-TIW-2024)
-[![Progetto di Reti Logiche 2024](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-Reti-Logiche-2024&theme=github_dark)](https://github.com/ImAndreaBellani/Progetto-di-Reti-Logiche-2024)
-[![Progetto di API 2022](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-API-2022&theme=github_dark)](https://github.com/ImAndreaBellani/Progetto-di-API-2022)
+[![Progetto di Ingegneria Informatica 2024](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-Ingegneria-Informatica-2024&theme=shades-of-purple)](https://github.com/ImAndreaBellani/Progetto-di-Ingegneria-Informatica-2024)
+[![Progetto di TIW 2024](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-TIW-2024&theme=algolia)](https://github.com/ImAndreaBellani/Progetto-di-TIW-2024)
+[![Progetto di Reti Logiche 2024](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-Reti-Logiche-2024&theme=solarized-dark)](https://github.com/ImAndreaBellani/Progetto-di-Reti-Logiche-2024)
+[![Progetto di API 2022](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-API-2022&theme=monokai)](https://github.com/ImAndreaBellani/Progetto-di-API-2022)
 
 ### 📓 High school's projects
 
-[![Elaborato informatica Esame di stato 2019-20](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Elaborato-informatica-Esame-di-stato-2019-20&theme=github_dark)](https://github.com/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20)
+[![Elaborato informatica Esame di stato 2019-20](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Elaborato-informatica-Esame-di-stato-2019-20&theme=great-gatsby)](https://github.com/ImAndreaBellani/Elaborato-informatica-Esame-di-stato-2019-20)
 
 ## 📈 Github Stats
 
