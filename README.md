@@ -18,7 +18,7 @@ You can find me on [Email](mailto:andrea1.bellani@mail.polimi.it) or [LinkedIn](
 ## 📌 Pinned repos
 ### 💻💻 Master's degree projects
 
-[![FMCRS Homework Project 2025](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=FMCRS-Homework-Project-2025&theme=github_dark)](https://github.com/ImAndreaBellani/FMCRS-Homework-Project-2025)
+[![FMCRS Homework Project 2025](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=FMCRS-Homework-Project-2025&theme=gruvbox_light)](https://github.com/ImAndreaBellani/FMCRS-Homework-Project-2025)
 [![RASD-DD Project 2025](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=RASD-DD-Project-2025-Bellani-Capellino&theme=github_dark)](https://github.com/ImAndreaBellani/RASD-DD-Project-2025-Bellani-Capellino)
 
 ### 💻 Bachelor's degree projects
