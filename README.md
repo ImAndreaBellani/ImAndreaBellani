@@ -25,7 +25,7 @@ Hi!👋
 ### 💻 Bachelor's degree projects
 
 [![Progetto di Ingegneria Informatica 2024](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-Ingegneria-Informatica-2024&theme=shades-of-purple)](https://github.com/ImAndreaBellani/Progetto-di-Ingegneria-Informatica-2024)
-[![Progetto di TIW 2024](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-TIW-2024&theme=algolia&v=2)](https://github.com/ImAndreaBellani/Progetto-di-TIW-2024)
+[![Progetto di TIW 2024](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-TIW-2024&theme=algolia&v=3)](https://github.com/ImAndreaBellani/Progetto-di-TIW-2024)
 [![Progetto di Reti Logiche 2024](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-Reti-Logiche-2024&theme=solarized-dark)](https://github.com/ImAndreaBellani/Progetto-di-Reti-Logiche-2024)
 [![Progetto di API 2022](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=Progetto-di-API-2022&theme=monokai)](https://github.com/ImAndreaBellani/Progetto-di-API-2022)
 
