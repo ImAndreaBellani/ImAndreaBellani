@@ -17,7 +17,7 @@ Hi!👋
 ## 📌 Pinned repos
 ### 💻💻 Master's degree projects
 
-[![PSD Project 2026](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=PSD-Project-2026&theme=apprentice&v=1)](https://github.com/ImAndreaBellani/PSD-Project-2026)
+[![PSD Project 2026](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=PSD-Project-2026&theme=apprentice&v=3)](https://github.com/ImAndreaBellani/PSD-Project-2026)
 [![AAPP Challenges 2026](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=AAPP-Challenges-2026&theme=bear&v=2)](https://github.com/ImAndreaBellani/AAPP-Challenges-2026)
 [![FMCRS Homework Project 2025](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=FMCRS-Homework-Project-2025&theme=gruvbox&v=2)](https://github.com/ImAndreaBellani/FMCRS-Homework-Project-2025)
 [![FOR Big Lab Project 2025](https://github-readme-stats-sigma-six-98.vercel.app/api/pin/?username=ImAndreaBellani&repo=FOR-Big-Lab-Project-2025&theme=react&v=3)](https://github.com/ImAndreaBellani/FOR-Big-Lab-Project-2025)
